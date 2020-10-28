@@ -1,6 +1,6 @@
 # Blog with Gatsby and Sanity
 
-🌎 Live [Demo](https://sanity.gatsbyjs.id/)
+🌎 Live [Demo](https://sanity-gatsby-blog-web-zseqtj6f.netlify.app/)
 
 ## What you have
 
